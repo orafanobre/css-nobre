@@ -3,4 +3,9 @@
     background-color: red;
     font-weight: bold;
     text-align: center;
+    font-size: 32px;
+}
+
+.body {
+    font-family: cursive;
 }
